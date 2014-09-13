@@ -9,7 +9,7 @@
 			columns: 3
 		},
 		filterToolbar:{
-			hide: false
+			hide: true
 		},
 	    grid: {
 	    	direction: 'rtl',
